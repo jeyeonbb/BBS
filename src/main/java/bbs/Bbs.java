@@ -1,5 +1,5 @@
 package bbs;
-
+// 제발 추가되라
 public class Bbs {
 	private int bbsID;
 	private String bbsTitle;
